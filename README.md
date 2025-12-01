@@ -4,10 +4,6 @@
 
 **https://sugatagh.github.io/dsml/projects/natural-language-processing-with-disaster-tweets/**
 
-## Kaggle Notebook
-
-**https://www.kaggle.com/sugataghosh/natural-language-processing-with-disaster-tweets**
-
 ## Overview
 
 - Disaster-related tweets have the potential to alert relevant authorities early on so that they can take action to reduce damage and possibly save lives.
